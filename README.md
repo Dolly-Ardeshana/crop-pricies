@@ -8,16 +8,16 @@ The dataset used in this project is stored in a file named ('Crop_Data.csv’). 
 
 ```
 Crop :  object 
-	•	Season :  object 
-	•	State  :  object 
-	•	Area  :  numerical
-	•	Soil Type :  object 
-	•	Pesticide Usage : object 
-	•	pH:   object 
-	•	Temperature :  object 
-	•	Fertilizer Usage: object 
-	•	Price :  numerical ( Target )
-	•	Rainfall : numerical
+Season :  object 
+State  :  object 
+Area  :  numerical
+Soil Type :  object 
+Pesticide Usage : object 
+pH:   object 
+Temperature :  object 
+Fertilizer Usage: object 
+Price :  numerical ( Target )
+Rainfall : numerical
 ```
 
 ## Libraries and Modules
@@ -25,10 +25,10 @@ Crop :  object
 The project utilizes the following libraries and modules:
 
 ```
-	•	pandas
-	•	seaborn
-	•	matplotlib.pyplot
-	•	scikit-learn
+pandas
+seaborn
+matplotlib.pyplot
+scikit-learn
 ```
 
 ## Conclusion
